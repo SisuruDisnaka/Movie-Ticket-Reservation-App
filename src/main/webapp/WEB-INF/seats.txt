@@ -1,0 +1,6 @@
+Annabelle (2014):2025-06-10:12:15:Premium | A3,A4,A5,A6
+Twilight Saga (2008):2025-05-26:08:00:Premium | A2,A3,A4,A5
+Jurassic Park (1993):2025-07-25:21:15:Premium | A3,A4,A5
+Spider Man (No Way Home):2025-05-28:11:00:Premium | C3,C4,C5,C6
+Iron Man 2:2025-05-27:10:00:Standard | A3,A4,A5
+Twilight Saga (2008):2025-06-12:13:30:Standard | A1,C4,A2,A3,D1

@@ -1,0 +1,4 @@
+74cd5b6d,sisuru,Annabelle (2014),2025-06-10 12:15,A3,A4,A5,A6,1150,2025-06-10,Confirmed,sisurudisnaka001@gmail.com,0778764586,Crispy chiken (x1) : Rs.1150; Beef Burger (x1) : Rs.760; Movie Ticket - Annabelle (2014) (2025-06-10, 12:15, Premium) (x1) : Rs.8000
+c1a82f9c,sisuru,Twilight Saga (2008),2025-06-12 13:30,C4,A1,A2,A3,D1,400,2025-06-12,Confirmed,sisurudisnaka001@gmail.com,0778764586,Butter Popcorn (x1) : Rs.400; Movie Ticket - Twilight Saga (2008) (2025-06-12, 13:30, Standard) (x1) : Rs.6000
+033e6c51,sisuru,Jurassic Park (1993),2025-07-25 21:15,A3,A4,A5,6000,2025-07-25,Confirmed,sisurudisnaka001@gmail.com,0778764586,Movie Ticket - Jurassic Park (1993) (2025-07-25, 21:15, Premium) (x1) : Rs.6000; Beef Burger (x1) : Rs.760
+b315f432,sisuru,Iron Man 2,2025-05-27 10:00,A3,A4,A5,760,2025-05-27,Confirmed,sisurudisnaka001@gmail.com,0778764586,Beef Burger (x1) : Rs.760; Movie Ticket - Iron Man 2 (2025-05-27, 10:00, Standard) (x1) : Rs.4500

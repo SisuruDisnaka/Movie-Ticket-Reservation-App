@@ -1,0 +1,8 @@
+Spider Man (No Way Home),Jon Watts,Peter Benjamin Parker,spider.jpg,2025-05-29,2025-05-30,2025-05-28,2025-06-02,07:30,18:45,11:00,22:30,Standard,Boutique,Premium,Premium,2000.0,1500.0,1000.0
+Iron Man 2,Jon Favreau,Robert Downey Jr.,iron.jpg,2025-05-26,2025-05-27,2025-05-29,16:00,10:00,00:45,Boutique,Standard,Premium,2500.0,2000.0,1500.0
+Forgotten (2017),Jang Hang-jun,Kang Ha-neul,forget.jpg,2025-05-27,2025-05-28,2025-05-30,2025-06-01,2025-06-07,2025-06-08,16:00,06:30,10:00,23:00,06:00,09:00,Standard,Boutique,Premium,Premium,Standard,Boutique,1500.0,1000.0,500.0
+Twilight Saga (2008),Catherine Hardwicke,Robert Pattinson,twlight.webp,2025-05-25,2025-05-26,2025-06-12,2025-06-20,14:15,08:00,13:30,14:15,Boutique,Premium,Standard,Boutique,1800.0,1500.0,1200.0
+The Batman (2022),Mat Reeves,Robert Pattinson,batman.webp,2025-05-27,2025-06-12,2025-07-16,2025-06-20,08:00,15:30,05:30,14:15,Premium,Standard,Boutique,Boutique,3500.0,3000.0,2500.0
+Annabelle (2014),John R. Leonetti,Annabelle Wallis,anab.avif,2025-05-27,2025-06-01,2025-05-29,2025-06-10,06:00,20:00,15:30,12:15,Standard,Premium,Boutique,Premium,2000.0,1500.0,1000.0
+Avatar (2009),James Cameron,Sam Worthington,avatar.webp,2025-06-01,2025-07-23,2025-06-10,2025-08-29,15:00,08:30,12:15,16:15,Premium,Boutique,Standard,Premium,1500.0,1200.0,1000.0
+Jurassic Park (1993),Steven Spielberg,B D Wong,jura.jpg,2025-06-03,2025-06-10,2025-06-20,2025-07-25,15:15,05:45,20:30,21:15,Boutique,Standard,Boutique,Premium,2000.0,1500.0,1000.0
