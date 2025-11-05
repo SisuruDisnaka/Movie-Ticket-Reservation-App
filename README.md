@@ -206,11 +206,11 @@ src/main/
 | 🎥 Home Page | <img src="images/home.png" width="800px" /> |
 | 👤 User Profile | <img src="images/user.png" width="800px" /> |
 | 📝 Movie Page | <img src="images/movie.png" width="800px" /> |
-| 🎟️ Seat Selection Page | <img src="images/seat.png" width="800px" /> |
-| 💳 Food Selection Page | <img src="images/food.png" width="800px" /> |
 | 🧑‍💻 Admin Dashboard | <img src="images/admin.png" width="800px" /> |
 | ➕ Add Movie Page | <img src="images/addMovie.png" width="800px" /> |
 | 📝 Register New User Page | <img src="images/Register.png" width="800px" /> |
+| 🎟️ Seat Selection Page | <img src="images/seat.png" width="800px" /> |
+| 💳 Food Selection Page | <img src="images/food.png" width="800px" /> |
 
 ---
 
